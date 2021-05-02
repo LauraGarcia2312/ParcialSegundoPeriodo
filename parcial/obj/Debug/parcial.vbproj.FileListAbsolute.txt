@@ -1,0 +1,12 @@
+C:\Users\USER\OneDrive\Escritorio\parcial\parcial\obj\Debug\parcial.vbprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Escritorio\parcial\parcial\obj\Debug\parcial.Form1.resources
+C:\Users\USER\OneDrive\Escritorio\parcial\parcial\obj\Debug\parcial.Resources.resources
+C:\Users\USER\OneDrive\Escritorio\parcial\parcial\obj\Debug\parcial.vbproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Escritorio\parcial\parcial\obj\Debug\parcial.vbproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Escritorio\parcial\parcial\bin\Debug\parcial.exe.config
+C:\Users\USER\OneDrive\Escritorio\parcial\parcial\bin\Debug\parcial.exe
+C:\Users\USER\OneDrive\Escritorio\parcial\parcial\bin\Debug\parcial.pdb
+C:\Users\USER\OneDrive\Escritorio\parcial\parcial\bin\Debug\parcial.xml
+C:\Users\USER\OneDrive\Escritorio\parcial\parcial\obj\Debug\parcial.exe
+C:\Users\USER\OneDrive\Escritorio\parcial\parcial\obj\Debug\parcial.xml
+C:\Users\USER\OneDrive\Escritorio\parcial\parcial\obj\Debug\parcial.pdb
